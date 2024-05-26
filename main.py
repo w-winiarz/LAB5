@@ -123,7 +123,7 @@ print(s.c)
 print(df[0:1])
 print("")
 print(df['Populacja'])
-print(df.iloc[0,0])
+print(df.iloc[2,0])
 
 # podaj numer wiersza i nazwe kolumny
 print(df.loc[0,"Kraj"])
